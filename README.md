@@ -1,4 +1,4 @@
-# Reeto 2 - Diagrama de Clases
+# Reto 2 - Diagrama de Clases
 
 Para demostrar las diferentes diferencias entre relaciones, herencias y composiciones entre clases decidí hacerlo a través de lo que sería un sistema de créditos y cupos de materias.
 
